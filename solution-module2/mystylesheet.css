@@ -6,8 +6,6 @@
   margin-bottom: 15px;
   padding: 0;
   position: relative;
- 
-
 }
 h1 {
   margin-bottom: 15px;
@@ -23,7 +21,7 @@ h1 {
   background-color: grey;
   font-family: sans-serif;
   border: 1px solid black;
-  height: 150px;
+  height: 180px;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -34,7 +32,7 @@ h1 {
   background-color: grey;
   font-family: sans-serif;
   border: 1px solid black;
-  height: 150px;
+  height: 180px;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -45,7 +43,7 @@ h1 {
   background-color: grey;
   font-family: sans-serif;
   border: 1px solid black;
-  height: 200px;
+  height: 180px;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -257,4 +255,3 @@ h1 {
   .col-sm-12 {
     width: 100%;
   }
-}
