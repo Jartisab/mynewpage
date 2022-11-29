@@ -1,0 +1,82 @@
+
+/** BODY **/
+* {
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+  #our-menu {
+    margin-bottom: 0px;
+    font-family: font-family: 'Francois One', sans-serif;
+  font-size: 200%;
+  color: #557c3e;
+  text-align: center;
+}
+
+#box {
+  background-color: grey;
+  font-family: font-family: 'Francois One', sans-serif;
+  border: 1px solid black;
+  height: 200%;
+  width: 90%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+#chicken {
+  color: brown;
+  font-style: oblique;
+  font-size: 130%;
+  padding: 5px;
+}
+
+#menu1 {
+  color: brown;
+  margin-top: 0px;
+  margin-left: 10px;
+  text-align: left;
+  padding:10px;
+  }
+
+  /** HEADER **/
+#header-nav {
+  background-color: dodgerblue;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { Food LLC
+  font-family: font-family: 'Francois One', sans-serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  color: brown;
+  font-family: 'Francois One', sans-serif;
+  font-size: 1em;
+  text-align: center;
+  padding: -7px;
+
+}
+
+
+
+
+
+
+
+
